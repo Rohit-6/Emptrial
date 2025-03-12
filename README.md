@@ -39,7 +39,7 @@ EmpMonitor is designed to balance employee oversight with ethical **monitoring p
 
  <details>
   <summary>Dashboard Preview</summary>
-      <img src="/assets/Dashboard.png" alt = "Dashboard Preview" width ="500" height = "500 "></img>
+      <img src="/assets/Dashboard.png" alt = "Dashboard Preview" width ="1200" height = "600 "></img>
   </details>
 
 <br>
