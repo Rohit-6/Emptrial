@@ -314,15 +314,15 @@ Overall, EmpMonitor helps businesses increase efficiency, improve teamwork, and 
 
 
 # How to use EmpMonitor
-<a href="https://www.w3schools.com">System Requirements</a>
+<a href="#">System Requirements</a>
 <br>
-<a href="https://www.w3schools.com">Download the Installer</a>
+<a href="#">Download the Installer</a>
 <br>
-<a href="https://www.w3schools.com">Install EmpMonitor</a>
+<a href="#">Install EmpMonitor</a>
 <br>
-<a href="https://www.w3schools.com">Configure the Software</a>
+<a href="#">Configure the Software</a>
 <br>
-<a href="https://www.w3schools.com">Verify the Installation</a>
+<a href="#">Verify the Installation</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
